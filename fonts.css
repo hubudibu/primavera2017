@@ -1,0 +1,57 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3401125, 2017-06-03T09:29:39-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Attentica4F-UltraLight by 4th february
+ * URL: https://www.myfonts.com/fonts/4thfebruary/attentica-4f/ultra-light/
+ * Copyright: &#x00A9; 2012-2013 by Sergiy S. Tkachenko / 4th february (info@4thfebruary.com.ua).&#x000D;&#x000A;All rights reserved. This font software is the property of Sergiy S. Tkachenko (Kremenchuk, Ukraine). You may not reproduce, modify, adapt, translate, alter
+ * Licensed pageviews: Unlimited
+ *
+ * Webfont: Tropen-Extras by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/tropen/extras/
+ * Copyright: Copyright (c) 2015 by Ahmet Altun. All rights reserved.
+ * Licensed pageviews: Unlimited
+ *
+ * Webfont: LolitaMedium by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/lolita/medium/
+ * Copyright: Copyright (c) 2012 by Miguel Hernandez. All rights reserved.
+ * Licensed pageviews: Unlimited
+ *
+ * Webfont: Akkordeon-DEMO by Emtype Foundry
+ * URL: https://www.myfonts.com/fonts/emtype/akkordeon/demo/
+ * Copyright: Copyright (c) 2017 by Eduardo Manso. All rights reserved.
+ * Licensed pageviews: 10,000
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3401125
+ *
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/33e5a5");
+
+
+@font-face {font-family: 'Attentica4F-UltraLight';src: url('webfonts/33E5A5_0_0.eot');src: url('webfonts/33E5A5_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33E5A5_0_0.woff2') format('woff2'),url('webfonts/33E5A5_0_0.woff') format('woff'),url('webfonts/33E5A5_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Tropen-Extras';src: url('webfonts/33E5A5_1_0.eot');src: url('webfonts/33E5A5_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33E5A5_1_0.woff2') format('woff2'),url('webfonts/33E5A5_1_0.woff') format('woff'),url('webfonts/33E5A5_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'LolitaMedium';src: url('webfonts/33E5A5_2_0.eot');src: url('webfonts/33E5A5_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33E5A5_2_0.woff2') format('woff2'),url('webfonts/33E5A5_2_0.woff') format('woff'),url('webfonts/33E5A5_2_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Akkordeon-DEMO';src: url('webfonts/33E5A5_3_0.eot');src: url('webfonts/33E5A5_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33E5A5_3_0.woff2') format('woff2'),url('webfonts/33E5A5_3_0.woff') format('woff'),url('webfonts/33E5A5_3_0.ttf') format('truetype');}
+
+@font-face {font-family: 'BlackJack';src: url('webfonts/33E5A8_0_0.eot');src: url('webfonts/33E5A8_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33E5A8_0_0.woff2') format('woff2'),url('webfonts/33E5A8_0_0.woff') format('woff'),url('webfonts/33E5A8_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'BellfortRoughDemo';src: url('webfonts/33E5A8_1_0.eot');src: url('webfonts/33E5A8_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33E5A8_1_0.woff2') format('woff2'),url('webfonts/33E5A8_1_0.woff') format('woff'),url('webfonts/33E5A8_1_0.ttf') format('truetype');}
+ 
